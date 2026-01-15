@@ -44,19 +44,15 @@ O modelo foi treinado para detectar moedas brasileiras e realizar a contagem dur
 
 ---
 
-## 🧪 Dataset
+## 🧠 Pesos do Modelo
 
-O modelo foi treinado utilizando um **dataset obtido na internet**, contendo imagens anotadas de moedas brasileiras.
+Os pesos do modelo (`best.pt`) foram treinados utilizando o **Brazilian Currency Dataset**, disponibilizado por Elaine Silva no Roboflow Universe.
 
-### 📌 Créditos do Dataset
+Autor do dataset: Elaine Silva  
+Link: https://universe.roboflow.com/elainesilva/brazilian-currency  
+Licença do dataset: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-[INSIRA AQUI OS CRÉDITOS DO DATASET]
-
-Autor:  [Elaine Silva](https://universe.roboflow.com/elainesilva)
-Link:  https://universe.roboflow.com/elainesilva/brazilian-currency
-Licença:  
-
----
+Os pesos são fornecidos exclusivamente para fins educacionais e de demonstração.
 
 ## ⚙️ Treinamento do Modelo
 
@@ -109,14 +105,6 @@ Os pesos e resultados do treinamento estão armazenados em:
 
 ---
 
-## 👤 Autor
+## 👤 Antony Reis
 
 Projeto desenvolvido para fins **acadêmicos e educacionais**, com foco em **visão computacional** e **deep learning**.
-
----
-
-## 🧠 Nota Técnica
-
-Este projeto tem como foco **detecção de objetos**, não rastreamento.
-
-Para aplicações que exigem contagem precisa por objeto único, recomenda-se a integração de algoritmos de **tracking**.
