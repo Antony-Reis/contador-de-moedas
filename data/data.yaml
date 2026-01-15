@@ -1,0 +1,7 @@
+path: contadormoedas\data
+
+train: train\images
+val: valid\images
+
+nc: 3
+names: ["1 real", "25 cents", "50 cents"]
