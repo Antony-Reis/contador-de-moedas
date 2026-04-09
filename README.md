@@ -24,7 +24,6 @@ O modelo foi treinado para detectar moedas brasileiras e realizar a contagem dur
 - Python
 - OpenCV
 - YOLOv8n (Ultralytics)
-- PyTorch
 
 ---
 
